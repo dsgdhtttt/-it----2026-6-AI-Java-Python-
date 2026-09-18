@@ -1,4 +1,4 @@
-# -优课it -黑马-2026年6月开始AI应用与智能体开发（Java+Python）线下课
+# 优课it -黑马-2026年6月开始AI应用与智能体开发（Java+Python）线下课
 获课：youkeit.xyz/18490/优课it -黑马-2026年6月开始AI应用与智能体开发（Java+Python）线下课
 
 想做 AI 智能体工程师？这套 Java+Python 线下课直击实战
